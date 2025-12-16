@@ -11,6 +11,10 @@ import (
 func main() {
 	projPath := os.Args[1]
 	_, err := fmt.Println("Project path:", projPath)
+	if err != nil {
+		_, _ = fmt.Fprintf(os.Stderr, "failed to print project path: %s\n", err)
+		os.Exit(1)
+	}
 	loader, _ := filestore.NewSingleProjectLoader(projPath)
 	ctx := context.Background()
 	_, err = loader.LoadProject(ctx)
