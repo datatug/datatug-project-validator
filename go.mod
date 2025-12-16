@@ -2,7 +2,7 @@ module github.com/datatug/datatug-project-validator
 
 go 1.25.5
 
-require github.com/datatug/datatug-core v0.12.2
+require github.com/datatug/datatug-core v0.12.3
 
 require (
 	github.com/dal-go/dalgo v0.26.5 // indirect

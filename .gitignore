@@ -31,4 +31,4 @@ go.work.sum
 .idea/
 .vscode/
 
-./datatug-project-validator
+datatug-project-validator
