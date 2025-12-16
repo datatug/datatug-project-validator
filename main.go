@@ -16,4 +16,8 @@ func main() {
 		_, _ = fmt.Fprintf(os.Stderr, "failed to load project: %s\n", err)
 		os.Exit(1)
 	}
+	if _, err = fmt.Fprintln(os.Stderr, "project is valid"); err != nil {
+		_, _ = fmt.Fprintf(os.Stderr, "failed to print project info: %s\n", err)
+		os.Exit(1)
+	}
 }
