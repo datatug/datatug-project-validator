@@ -9,9 +9,11 @@ import (
 )
 
 func main() {
-	loader, _ := filestore.NewSingleProjectLoader("")
+	projPath := os.Args[1]
+	_, err := fmt.Println("Project path:", projPath)
+	loader, _ := filestore.NewSingleProjectLoader(projPath)
 	ctx := context.Background()
-	_, err := loader.LoadProject(ctx)
+	_, err = loader.LoadProject(ctx)
 	if err != nil {
 		_, _ = fmt.Fprintf(os.Stderr, "failed to load project: %s\n", err)
 		os.Exit(1)
