@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/datatug/datatug-core/pkg/datatug"
+	"github.com/datatug/datatug-core/pkg/storage"
 	"github.com/datatug/datatug-core/pkg/storage/filestore"
 )
 
@@ -15,15 +17,18 @@ func main() {
 		_, _ = fmt.Fprintf(os.Stderr, "failed to print project path: %s\n", err)
 		os.Exit(1)
 	}
-	loader, _ := filestore.NewSingleProjectLoader(projPath)
+	store, _ := filestore.NewSingleProjectStore(projPath, "")
 	ctx := context.Background()
-	_, err = loader.LoadProject(ctx)
+	projectStore := store.GetProjectStore(storage.SingleProjectID)
+	var p *datatug.Project
+	p, err = projectStore.LoadProject(ctx)
 	if err != nil {
 		_, _ = fmt.Fprintf(os.Stderr, "failed to load project: %s\n", err)
 		os.Exit(1)
 	}
-	if _, err = fmt.Fprintln(os.Stderr, "project is valid"); err != nil {
-		_, _ = fmt.Fprintf(os.Stderr, "failed to print project info: %s\n", err)
+	if err = p.Validate(); err != nil {
+		_, _ = fmt.Fprintf(os.Stderr, "failed to validate project: %s\n", err)
 		os.Exit(1)
 	}
+	_, _ = fmt.Fprintln(os.Stderr, "DataTug project is valid")
 }
