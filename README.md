@@ -17,6 +17,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: datatug/datatug-project-validator@main
-        with:
-          path: ./datatug
 ```
