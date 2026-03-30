@@ -2,18 +2,18 @@ module github.com/datatug/datatug-project-validator
 
 go 1.25.5
 
-require github.com/datatug/datatug-core v0.16.13
+require github.com/datatug/datatug-core v0.16.14
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.16.0 // indirect
 	github.com/bits-and-blooms/bitset v1.24.4 // indirect
-	github.com/dal-go/dalgo v0.41.9 // indirect
+	github.com/dal-go/dalgo v0.41.10 // indirect
 	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/qri-io/jsonpointer v0.1.1 // indirect
 	github.com/qri-io/jsonschema v0.2.1 // indirect
 	github.com/strongo/random v0.0.1 // indirect
-	github.com/strongo/slice v0.3.3 // indirect
-	github.com/strongo/validation v0.0.7 // indirect
+	github.com/strongo/slice v0.3.4 // indirect
+	github.com/strongo/validation v0.0.8 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
