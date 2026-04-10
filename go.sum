@@ -42,6 +42,8 @@ github.com/datatug/datatug-core v0.16.13 h1:rnRveOlKWcoRs9HXItEklwy9D+ROVZ5MQ/zJ
 github.com/datatug/datatug-core v0.16.13/go.mod h1:pHzaYfy2qFWeBSVkSYi7IE+p1ZiKaB9Blx8/dQE00rE=
 github.com/datatug/datatug-core v0.16.14 h1:eNSgz+dOmlLwDvE9LX4FUhbvFU/IRdLEP5mgkx4qmU8=
 github.com/datatug/datatug-core v0.16.14/go.mod h1:8gdrW+8VRzZcb+xP98JjeM7wWBkSk+eQ6qi/tRuiNmc=
+github.com/datatug/datatug-core v0.16.15 h1:McgrmNarw0DIP1BpZPkbbYAYSmtmmG+Jt/SXr2G7rAU=
+github.com/datatug/datatug-core v0.16.15/go.mod h1:iaByyJU04gwxC3rwpDEaxZSWCXlDp5vtTeWw9dqsMGM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
