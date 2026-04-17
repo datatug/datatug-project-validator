@@ -8,6 +8,8 @@ github.com/RoaringBitmap/roaring/v2 v2.16.0 h1:Kys1UNf49d5W8Tq3bpuAhIr/Z8/yPB+59
 github.com/RoaringBitmap/roaring/v2 v2.16.0/go.mod h1:eq4wdNXxtJIS/oikeCzdX1rBzek7ANzbth041hrU8Q4=
 github.com/RoaringBitmap/roaring/v2 v2.16.2 h1:x4eAT8HMCQ6RzqsUpoKUF3j9f7qLm9vR+kA+DCRnxZ8=
 github.com/RoaringBitmap/roaring/v2 v2.16.2/go.mod h1:eq4wdNXxtJIS/oikeCzdX1rBzek7ANzbth041hrU8Q4=
+github.com/RoaringBitmap/roaring/v2 v2.17.0 h1:evHq5C9ntuoWIbZfNPmcl1hpQvtiz/z0YQCkgzlfeNQ=
+github.com/RoaringBitmap/roaring/v2 v2.17.0/go.mod h1:eq4wdNXxtJIS/oikeCzdX1rBzek7ANzbth041hrU8Q4=
 github.com/bits-and-blooms/bitset v1.24.4 h1:95H15Og1clikBrKr/DuzMXkQzECs1M6hhoGXLwLQOZE=
 github.com/bits-and-blooms/bitset v1.24.4/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6a/7QIWpPxHddWR8=
 github.com/dal-go/dalgo v0.41.1 h1:M3j/oMqE3MQD2l170X04IZBn2MHenrMKL76ma7IXVYM=
@@ -28,6 +30,8 @@ github.com/dal-go/dalgo v0.41.10 h1:xs51xwNy/dXdl1bJHaIZRc/UKY1TeDg0etqWg03X4PM=
 github.com/dal-go/dalgo v0.41.10/go.mod h1:jPNOxd415Z6KOuU7ZjdcjiRs4Vl4OkirOzyRbtuFZzI=
 github.com/dal-go/dalgo v0.41.11 h1:AyqG+m+MAYCzfq1WTxgW1SMUTg5vMZoyTIdBSnryFkc=
 github.com/dal-go/dalgo v0.41.11/go.mod h1:md637sSV7q85L97d5NfPIYkySXhvmqvNcEBVhKbMT3o=
+github.com/dal-go/dalgo v0.41.12 h1:Efm31UzF0EIsyuNcYw3zUN4z4KaUCiOsmhOg6njzqqc=
+github.com/dal-go/dalgo v0.41.12/go.mod h1:YJXtQVVDgd1sVLvcIeyLGfVla/sT6bxoqNCIPPwf7pw=
 github.com/datatug/datatug-core v0.15.8 h1:d0xe3/12iYEVOvLH156qxwCwWUu2OA3qlrpgu9xwZOk=
 github.com/datatug/datatug-core v0.15.8/go.mod h1:4NNHc95iOkGhroW9n0DqWEtixiLqwk7jsLIJ6HPoHig=
 github.com/datatug/datatug-core v0.16.5 h1:do6ycJJbpUXjVNgk/jhC8T27+ka+6d4qc1Z1JZ9YLd0=
@@ -50,6 +54,8 @@ github.com/datatug/datatug-core v0.16.15 h1:McgrmNarw0DIP1BpZPkbbYAYSmtmmG+Jt/SX
 github.com/datatug/datatug-core v0.16.15/go.mod h1:iaByyJU04gwxC3rwpDEaxZSWCXlDp5vtTeWw9dqsMGM=
 github.com/datatug/datatug-core v0.16.16 h1:ycxIfu7y3A1guN0//CbC238wLROD1fcEnD4fYE5bMI0=
 github.com/datatug/datatug-core v0.16.16/go.mod h1:BZTt6LlkjtJIAJ1Dr55A94ODHefg3kB+RiKy58PD74k=
+github.com/datatug/datatug-core v0.16.17 h1:kY2Nv68PxHk/k8A+xRXW+q8dv9VY3b1RLzs4q6MQtCU=
+github.com/datatug/datatug-core v0.16.17/go.mod h1:QW/e4Y9qpntRB68a/976JtbAhVf+esiYm0byt9Qe/hA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
