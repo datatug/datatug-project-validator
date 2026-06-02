@@ -48,6 +48,8 @@ github.com/dal-go/dalgo v0.43.1 h1:MnsOzMurG8we9+U+uvj3CqsZU08SWh/8HzcCF3SkJmo=
 github.com/dal-go/dalgo v0.43.1/go.mod h1:5Y8SHjlwiUx+2as1XnhOjfFaZ33+T0HlZ+va2zwTSZo=
 github.com/dal-go/dalgo v0.43.3 h1:7hdXb3ysVCr6prOyEZKvnzjz0kjv+ramKjotw4vbwj4=
 github.com/dal-go/dalgo v0.43.3/go.mod h1:WdTy5jE3v9LjiOeHVkMgHEi8nn0GeImQmjfuuJpYISY=
+github.com/dal-go/dalgo v0.44.2 h1:+eJG5WTiGcy82jAgJrNzuDhlpyWISDfIAnMJ3l7G7wE=
+github.com/dal-go/dalgo v0.44.2/go.mod h1:HHMUuCMutAlYEblDTVws7jeZs56jvOCbOuxVs6I01tE=
 github.com/datatug/datatug-core v0.15.8 h1:d0xe3/12iYEVOvLH156qxwCwWUu2OA3qlrpgu9xwZOk=
 github.com/datatug/datatug-core v0.15.8/go.mod h1:4NNHc95iOkGhroW9n0DqWEtixiLqwk7jsLIJ6HPoHig=
 github.com/datatug/datatug-core v0.16.5 h1:do6ycJJbpUXjVNgk/jhC8T27+ka+6d4qc1Z1JZ9YLd0=
@@ -86,6 +88,8 @@ github.com/datatug/datatug-core v0.16.24 h1:biHqdMCKT3nmxMy6iWuwvP5CxkPRbq7z18K3
 github.com/datatug/datatug-core v0.16.24/go.mod h1:p+iHb8uHYmUcqgmdYA3OoKouRZPBllEBfTQbekWRvE8=
 github.com/datatug/datatug-core v0.16.25 h1:TjbaknpYn1kltO/PlI/WcNS4rqhYfQkmqYD5anXIw6o=
 github.com/datatug/datatug-core v0.16.25/go.mod h1:yCjHRVJWManbp1TMH8GP+Z7NMnpd4+KHp52qh2gzbhg=
+github.com/datatug/datatug-core v0.16.26 h1:S6wi7vElhi6WI4OYCRUZWfHPjdxFbDIFsYlGxYmGWb0=
+github.com/datatug/datatug-core v0.16.26/go.mod h1:ps+d+5d0yfFFtGYRqsNngDd/TYzsXnJJhDa2vhHwfaM=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
