@@ -1,0 +1,20 @@
+# INGR.io | files: $ID, content_hash, language, size:int, node_count:int, errors
+".github/workflows/golangci.yml"
+"8c3fa6a8485cc62d6903bf2dbd881208aade1dc8935d1ad9e3476e62ba5506e0"
+"yaml"
+579
+0
+null
+"action.yml"
+"56254c67064daa5be3f7291df33987ad70701da6ebf252db2d224ac64dfcc42f"
+"yaml"
+477
+0
+null
+"main.go"
+"55c44e8ee838c3936e80f5f242d11ed2fb3105f665976bae14b2401ae6cb32de"
+"go"
+904
+8
+null
+# 3 records
