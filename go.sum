@@ -5,10 +5,14 @@ github.com/bits-and-blooms/bitset v1.24.6/go.mod h1:7hO7Gc7Pp1vODcmWvKMRA9BNmbv6
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/dal-go/dalgo v0.64.4 h1:cecs5qLe/mPxM66+fg93+8Z57IB5oQiVDRAtC6PKPz0=
 github.com/dal-go/dalgo v0.64.4/go.mod h1:q3jCRh1hNvH6SA6YESJDcKAnoGN3/6fec9Gebn4IVEk=
+github.com/dal-go/dalgo v0.64.6 h1:GyNPqop7kous/5otQhVbenpIgLxeEUSuc2eY4iVFMR4=
+github.com/dal-go/dalgo v0.64.6/go.mod h1:BrRPUGCBp+0mOR9+3nSxCVtkxwxmfYzCnlUPAHAAdtY=
 github.com/dal-go/record v0.1.2 h1:cDy296wwG3r2T+vy0yVJBouJ936oISiqiNB7G3ef5Og=
 github.com/dal-go/record v0.1.2/go.mod h1:quwsVJTT0f6y3Mhx+yHpTobY7luX1M6kyO6fdJ/AFYE=
 github.com/datatug/datatug-core v0.16.41 h1:SMnhXF+R5Th47xXhbekX3jNFHSAPWemhHn+8XvZ7804=
 github.com/datatug/datatug-core v0.16.41/go.mod h1:X9VmTRaA8spE5bnEDQfTWhGzy5LnWyaOIFJeGCqdDTI=
+github.com/datatug/datatug-core v0.16.42 h1:QHfLdaWdlgLjUuIxNHE3TBOJv67bs2d8MrH72SYgBus=
+github.com/datatug/datatug-core v0.16.42/go.mod h1:hmNPXSGkmR2LLCZVPlVjoBxbvb93w0a8xiNF8s2M03Q=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
