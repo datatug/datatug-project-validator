@@ -13,6 +13,8 @@ github.com/datatug/datatug-core v0.16.41 h1:SMnhXF+R5Th47xXhbekX3jNFHSAPWemhHn+8
 github.com/datatug/datatug-core v0.16.41/go.mod h1:X9VmTRaA8spE5bnEDQfTWhGzy5LnWyaOIFJeGCqdDTI=
 github.com/datatug/datatug-core v0.16.42 h1:QHfLdaWdlgLjUuIxNHE3TBOJv67bs2d8MrH72SYgBus=
 github.com/datatug/datatug-core v0.16.42/go.mod h1:hmNPXSGkmR2LLCZVPlVjoBxbvb93w0a8xiNF8s2M03Q=
+github.com/datatug/datatug-core v0.16.43 h1:wEmZbr7s9zYbvNkm4xhUiSdiJbwJv6qbqGaQxfhDegY=
+github.com/datatug/datatug-core v0.16.43/go.mod h1:fMqPnIvfkV25sEK9xdCCKk9D4xMhxUuSYbV3nPXsOSo=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
