@@ -4,13 +4,13 @@ go 1.26.0
 
 toolchain go1.27.0
 
-require github.com/datatug/datatug-core v0.16.45
+require github.com/datatug/datatug-core v0.16.48
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.25.0 // indirect
 	github.com/bits-and-blooms/bitset v1.24.6 // indirect
-	github.com/dal-go/dalgo v0.64.8 // indirect
-	github.com/dal-go/record v0.1.2 // indirect
+	github.com/dal-go/dalgo v0.66.1 // indirect
+	github.com/dal-go/record v0.1.3 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/qri-io/jsonpointer v0.1.1 // indirect
