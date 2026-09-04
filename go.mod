@@ -2,7 +2,7 @@ module github.com/datatug/datatug-project-validator
 
 go 1.26.0
 
-toolchain go1.27.0
+toolchain go1.27.1
 
 require github.com/datatug/datatug-core v0.16.50
 
