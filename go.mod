@@ -4,7 +4,7 @@ go 1.26.0
 
 toolchain go1.27.1
 
-require github.com/datatug/datatug-core v0.21.0
+require github.com/datatug/datatug-core v0.22.0
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.27.0 // indirect
