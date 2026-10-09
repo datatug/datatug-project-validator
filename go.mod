@@ -2,9 +2,9 @@ module github.com/datatug/datatug-project-validator
 
 go 1.26.0
 
-toolchain go1.27.1
+toolchain go1.27.2
 
-require github.com/datatug/datatug-core v0.43.1
+require github.com/datatug/datatug-core v0.46.0
 
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.29.0 // indirect
